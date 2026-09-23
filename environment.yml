@@ -1,0 +1,11 @@
+name: data-proj2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - ipykernel
+  - pandas
+  - seaborn
+  - jupyterlab
